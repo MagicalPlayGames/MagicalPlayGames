@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Michael 🧔🖥️ 👋
+
+Thank you for checking out my Github. I've been coding for 12 years now, and I am currently pursuing my Unity Expert Programmer Certification.
+
+I have various projects here to check out ranging from Advance A.I. to games I've developed. Please have a look and feel free to add onto the code.
+Also, here are some Art I've done using Unity Shaders
+![Cel](https://github.com/MagicalPlayGames/MagicalPlayGames/assets/62050440/01778810-c5fd-4bac-b2cc-e39936e1fe5b)
+![WaterImage](https://github.com/MagicalPlayGames/MagicalPlayGames/assets/62050440/83b216dc-cf4d-48a3-bea5-4e7115d0c1e7)
+![Toon](https://github.com/MagicalPlayGames/MagicalPlayGames/assets/62050440/54d471a5-cc39-4f5a-9534-24e22bdb90f0)
+https://github.com/MagicalPlayGames/MagicalPlayGames/assets/62050440/0a5bbffa-8e91-4470-8df6-f969e28156d7
 
 <!--
 **MagicalPlayGames/MagicalPlayGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
