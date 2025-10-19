@@ -1,6 +1,6 @@
 ## Hi there, I'm Michael 🧔🖥️ 👋
 
-Thank you for checking out my Github. I've been coding for 12 years now, and I am currently pursuing my Unity Expert Programmer Certification.
+Thank you for checking out my Github. I've been coding for 12 years now, and I am currently pursuing my Unity Expert Programmer Certification. (Update: HAVE my Certification)
 
 I have various projects here to check out ranging from Advance A.I. to games I've developed. Please have a look and feel free to add onto the code.
 Also, here are some Art I've done using Unity Shaders
